@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-19 BZR 5328)-product   date = 22/12/2014 23:19:28
+
+BeginCmp
+TimeStamp = /54989AB3;
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = SH_Capacitors:3216_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498A4CA;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = SH_Capacitors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54989BF7;
+Reference = C3;
+ValeurCmp = 10nF;
+IdModule  = SH_Capacitors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498D6DB;
+Reference = C4;
+ValeurCmp = 4.7uF;
+IdModule  = SH_Capacitors:2012_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498D665;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = SH_Capacitors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /549899D4;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = SH_Capacitors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988F7C;
+Reference = C7;
+ValeurCmp = 22uF;
+IdModule  = SH_Capacitors:3216_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988E01;
+Reference = L1;
+ValeurCmp = 22uH;
+IdModule  = SH_Inductors:Abracon_ASPI-0418FS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988F24;
+Reference = L2;
+ValeurCmp = 10uH;
+IdModule  = SH_Inductors:2520_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988D51;
+Reference = P1;
+ValeurCmp = INPUT;
+IdModule  = SH_Jumper_Pins:JP-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988D0A;
+Reference = P2;
+ValeurCmp = LIPO;
+IdModule  = SH_Jumper_Pins:JP-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988C94;
+Reference = P3;
+ValeurCmp = LOAD;
+IdModule  = SH_Jumper_Pins:JP-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54989017;
+Reference = R1;
+ValeurCmp = 7.87M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /549898E1;
+Reference = R2;
+ValeurCmp = 6.04M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498990E;
+Reference = R3;
+ValeurCmp = 0.698M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54989940;
+Reference = R4;
+ValeurCmp = 8.06M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5498E9DE;
+Reference = R5;
+ValeurCmp = 4.22M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54989969;
+Reference = R6;
+ValeurCmp = 6.65M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /549899A3;
+Reference = R7;
+ValeurCmp = 6.19M;
+IdModule  = SH_Resistors:1608_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54988C22;
+Reference = U1;
+ValeurCmp = TI_BQ25570;
+IdModule  = SH_QFN_QFP:QFN-20-TE;
+EndCmp
+
+EndListe
