@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2014-12-19 BZR 5328)-product")
+(kicad_pcb (version 4) (host pcbnew 0.201602151416+6558~42~ubuntu14.04.1-product)
 
   (general
     (links 54)
     (no_connects 0)
-    (area 123.380499 78.422499 136.207501 99.379942)
+    (area 120.65 74.93 138.430001 101.600001)
     (thickness 1.6)
     (drawings 12)
     (tracks 186)
@@ -77,7 +77,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x3ffff_80000001)
+      (layerselection 0x3ffff_ffffffff)
       (usegerberextensions true)
       (usegerberattributes true)
       (excludeedgelayer true)
@@ -89,7 +89,6 @@
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15)
-      (hpglpenoverlay 2)
       (psnegative false)
       (psa4output false)
       (plotreference true)
@@ -101,7 +100,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory CAM/))
+      (outputdirectory ../gerbers/))
   )
 
   (net 0 "")
